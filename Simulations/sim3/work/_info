@@ -1,0 +1,110 @@
+m255
+K4
+z2
+!s11f MIXED_VERSIONS
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/Nikita/Desktop/Technion/2022_spring/DigitalSystems_044252/Simulations/Sim3
+vrv_ctl
+Z1 DXx6 sv_std 3 std 0 22 VYECXdT12H8WgbUP_5Y6:3
+Z2 !s110 1656547506
+!i10b 1
+!s100 gaIGd1lQ2bTRNY9nZ:Hd[2
+Z3 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I@dTflGQHPESl_En6EMc0c1
+Z4 VDg1SIo80bB@j0V0VzS_@n1
+S1
+R0
+w1656546491
+8rv_ctl.sv
+Frv_ctl.sv
+Z5 Fparams.inc
+!i122 19
+L0 7 251
+Z6 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z7 !s108 1656547505.000000
+!s107 params.inc|rv_top.sv|rv_sim.sv|rv_dp.sv|rv_ctl.sv|
+Z8 !s90 -reportprogress|300|rv_ctl.sv|rv_dp.sv|rv_sim.sv|rv_top.sv|
+!i113 1
+Z9 tCvgOpt 0
+vrv_dp
+R1
+R2
+!i10b 1
+!s100 jcm5e=FPH769QJnX2oCPg0
+R3
+IJCVTY7MCoVT@z=4i^5mFA0
+R4
+S1
+R0
+w1656545376
+8rv_dp.sv
+Frv_dp.sv
+R5
+!i122 19
+L0 7 244
+R6
+r1
+!s85 0
+31
+R7
+Z10 !s107 params.inc|rv_top.sv|rv_sim.sv|rv_dp.sv|rv_ctl.sv|
+R8
+!i113 1
+R9
+vrv_sim
+R1
+R2
+!i10b 1
+!s100 JKjkJ>?GClmdJ5OY8@KG>0
+R3
+I]oS1K4=BHRJ]Y:7zGMIA:1
+R4
+S1
+R0
+w1656533245
+8rv_sim.sv
+Frv_sim.sv
+R5
+!i122 19
+L0 7 157
+R6
+r1
+!s85 0
+31
+R7
+R10
+R8
+!i113 1
+R9
+vrv_top
+R1
+R2
+!i10b 1
+!s100 ?T<f9]<8LbQ]]OmiBa8OW0
+R3
+I8H5c;e9GPl@C@N?Ed=[DM0
+R4
+S1
+R0
+w1656539079
+8rv_top.sv
+Frv_top.sv
+!i122 19
+L0 8 102
+R6
+r1
+!s85 0
+31
+R7
+R10
+R8
+!i113 1
+R9

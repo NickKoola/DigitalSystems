@@ -1,0 +1,12 @@
+vlog HA.sv
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 22:24:43 on Apr 13,2022
+# vlog -reportprogress 300 HA.sv 
+# -- Compiling module HA
+# ** Error: (vlog-13069) HA.sv(11): near "endmodule": syntax error, unexpected endmodule, expecting ';' or ','.
+# End time: 22:24:43 on Apr 13,2022, Elapsed time: 0:00:00
+# Errors: 1, Warnings: 0
+# C:/intelFPGA/20.1/modelsim_ase/win32aloem/vlog failed.
+cd~
+# invalid command name "cd~"
+cd ~
